@@ -42,7 +42,7 @@ export default function ImagemScreen(){
 const styles = StyleSheet.create({
     container: {
         flex:1,
-        backgroundColor:'#000000',
+        backgroundColor:'pink',
         justifyContent:'center',
         alignItems:'center'
     },
